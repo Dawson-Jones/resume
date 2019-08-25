@@ -1,18 +1,19 @@
-<center><h2>个人简历</h2></center>
-### 个人信息
-* 贾冬青/男/1996/全日制本科/济南大学
-* 期望职位: python/后端
-* 期望城市: 上海/南京
+<center><h2>个人简历</h2></center>  
+
+### 个人信息  
+- 贾冬青/男/1996/全日制本科/济南大学  
+- 期望职位: python/后端  
+- 期望城市: 上海/南京  
 ### 联系方式  
-* 手机: 15318808480
-* 微信/QQ: 957360688
-* 邮箱: jeedq@qq.com
+- 手机: 15318808480  
+- 微信/QQ: 957360688  
+- 邮箱: jeedq@qq.com  
 ### 技能 
-- 开发框架: Django/Flask
-- 数据库: Mysql/Redis
-- 熟悉Linux操作系统
-- 了解Html/CSS/JavaScript/jQuery
-- Git/Ajax/Vim
+- 开发框架: Django/Flask  
+- 数据库: Mysql/Redis  
+- 熟悉Linux操作系统  
+- 了解Html/CSS/JavaScript/jQuery  
+- Git/Ajax/Vim  
 
 ### 项目实践  
 
