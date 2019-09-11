@@ -20,7 +20,7 @@
 ##### 爱家租房
 - 框 &nbsp; 架: **Flask** + **gunicorn** + **Nginx**  
 - 数据库: **MySQL** + **Redis**  
-- 作品链接: [jeedq.cn][jeedq.cn]  
+- 作品链接: [jeedq.cn](jeedq.cn)  
 - 源码: https://github.com/PhoeniXWhite/ihome
 - 测试账号: (密码均为: a12123)
     - 房客: 
