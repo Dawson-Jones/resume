@@ -1,5 +1,4 @@
 <center><h2>个人简历</h2></center>  
-
 ### 个人信息   
 - 贾冬青/男/1996/本科/济南大学  
 - 期望职位: python后端  
@@ -28,7 +27,7 @@
 ##### 爱家租房 Flask
 > P2P租房
 - 部 &nbsp; 署: 
-  - redis: 缓存静态页面/储存session信息/异步broker发送邮件/验证码过期时间  
+  - redis: 缓存静态页面/储存session信息/异步broker发送邮件  
   - 数据库: MySQL
   - 分布式图片存储: FastDFS
   - Nginx + gunicorn + Flask
