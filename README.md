@@ -21,7 +21,7 @@
 - 熟悉Linux操作系统  
 - 熟练使用正则表达式  
 - 较熟悉Pyqt5的使用  
-- 了解html/css/js、jQuery 、Ajax、bootstrap  
+- 了解html/css/js、jQuery 、Ajax
 
 ### 项目经历   
 ##### 爱家租房 Flask
@@ -39,7 +39,7 @@
 - 支持 Markdown 语法和代码高亮   
 - 自定义模板标签  
 - 数据库: sqlite3  
-- 作品链接: http://49.234.29.32 (国内服务器未备案)  
+- 作品链接: http://39.106.50.219 (国内服务器未备案)  
 - 前后端不分离  
 
 ### 工作经验  
