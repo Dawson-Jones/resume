@@ -36,7 +36,6 @@
   - 前后端分离
 
 ##### 个人博客 Django
-
 - Nginx + uWSGI + django  
 - 支持 Markdown 语法和代码高亮   
 - 自定义模板标签  
